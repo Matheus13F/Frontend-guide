@@ -1,13 +1,12 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Jogo Genius? 🙃
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+Jogo Genius desenvolvido com html css e javascript, pelo desafio de código da Digital Innovation One!
 
-### Os requisitos são:
+### Necessário conhecimento básico:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
 
-
-## 🚀 Let's code! 🚀
+## 🚀 Happy code! 🚀
